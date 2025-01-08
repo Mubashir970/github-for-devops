@@ -298,3 +298,5 @@ git rebase
 
 50.) git –version // used to show the current version of Git
 git –version
+
+This are the Comment used in Github
